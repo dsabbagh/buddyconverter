@@ -1,3 +1,3 @@
 # Buddy Converter
 
-Project is still int he development stage. It is NOT working yet!
+Project is still in the development stage. It is NOT working yet!
